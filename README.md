@@ -73,3 +73,8 @@ def test_client_api():
 - endpoint: 测试环境下需要 host 绑定 114.55.202.134 console-bench.aliyuncs.com
 
 
+## 许可证
+
+[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+Copyright (c) 2009-present, Alibaba Cloud All rights reserved.
